@@ -2,9 +2,9 @@
 
 _Q&A.xlsx + Vector DB(Qdrant) + Gemini Embedding 기반 지식 챗봇_
 
-![Perso AI Chatbot UI](public/screenshot.png)
-
-> Screenshot: 챗봇 웹 UI — 이미지를 `public/screenshot.png`로 저장하세요.
+<p align="center">
+  <img src="./public/screenshot.png" alt="Perso AI Chatbot UI" style="max-width:100%;height:auto;" />
+</p>
 
 ---
 
