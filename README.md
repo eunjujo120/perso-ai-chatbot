@@ -21,8 +21,6 @@ _Q&A.xlsx + Vector DB(Qdrant) + Gemini Embedding 기반 지식 챗봇_
 
 - **프로젝트 구조**
 
-- **프로젝트 구조**
-
 ```text
 perso-ai-chatbot/
 ├── backend/
