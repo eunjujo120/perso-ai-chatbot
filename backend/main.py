@@ -111,7 +111,7 @@ def _normalize_keyword(tok: str) -> str:
     # 서비스 / 기능 / 기술 / 강점
     if "서비스" in t:
         return "서비스"
-    if "기능" in t or "기능들" in t in t:
+    if "기능" in t or "기능들" in t :
         return "기능"
     if "기술" in t:
         return "기술"
