@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+qdrant-client
+google-genai
+pandas
+openpyxl
+python-dotenv
+httpx
