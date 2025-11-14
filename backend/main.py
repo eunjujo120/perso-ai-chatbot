@@ -335,7 +335,7 @@ def chat(req: ChatRequest):
             best_hit = c
 
     # 너무 높은 threshold가 들어와도 0.6까지만 쓰도록 캡핑
-    effective_threshold = min(SCORE_THRESHOLD, 0.6)
+    effective_threshold = min(, 0.6)
 
     # 4) threshold 아래면 "모르겠다"
     if best_hit is None or best_score < effective_threshold:

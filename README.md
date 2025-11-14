@@ -185,7 +185,7 @@ QDRANT_COLLECTION=perso_qa
 EMBEDDING_MODEL=text-embedding-004
 
 # 검색 threshold (0.5~0.6 권장)
-SCORE_THRESHOLD=0.55
+SCORE_THRESHOLD=0.5
 ```
 
 ### 5.3 Qdrant 실행
