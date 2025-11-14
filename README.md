@@ -3,7 +3,7 @@
 _Q&A.xlsx + Vector DB(Qdrant) + Gemini Embedding 기반 지식 챗봇_
 
 <p align="center">
-  <img src="./public/screenshot.png" alt="Perso AI Chatbot UI" style="max-width:100%;height:auto;" />
+  <img src="screenshot.png" alt="Perso AI Chatbot UI" style="max-width:100%;height:auto;" />
 </p>
 
 ---
